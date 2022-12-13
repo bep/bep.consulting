@@ -1,0 +1,5 @@
+github.com/bep/bep.is v0.0.0-20221111231408-e999b136c9c9 h1:sUe/XwFb9nVHQn/pQKKTflD4n3ybYAj240lyf4oe6ko=
+github.com/bep/bep.is v0.0.0-20221111231408-e999b136c9c9/go.mod h1:z3MSk3WdheadpAMtksu32+viI+dLMkiikp7hkvdbGWk=
+github.com/bep/bep.is v0.0.0-20221213113334-33f5d5131501 h1:H6VLH7NaonNAT0JHm3BK0tLptL0e54gkEDdXcI7paus=
+github.com/bep/bep.is v0.0.0-20221213113334-33f5d5131501/go.mod h1:z3MSk3WdheadpAMtksu32+viI+dLMkiikp7hkvdbGWk=
+github.com/bep/hugo-mod-misc/render-hooks v0.1.0/go.mod h1:urWX/OTIywaBRMTcOjj15CedWUkAYoMeAqL9OhWFVrw=

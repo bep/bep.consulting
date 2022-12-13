@@ -1,0 +1,24 @@
+{
+  "comments": {
+    "dependencies": {},
+    "devDependencies": {
+      "@tailwindcss/typography": "github.com/bep/bep.is",
+      "autoprefixer": "github.com/bep/bep.is",
+      "postcss": "github.com/bep/bep.is",
+      "postcss-cli": "github.com/bep/bep.is",
+      "postcss-purgecss": "github.com/bep/bep.is",
+      "tailwindcss": "github.com/bep/bep.is"
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "postcss-cli": "^8.3.1",
+    "postcss-purgecss": "^2.0.3",
+    "tailwindcss": "^2.2.7"
+  },
+  "name": "bep.consulting",
+  "version": "0.1.0"
+}

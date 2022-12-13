@@ -1,0 +1,25 @@
+baseURL      = "https://bep.consulting"
+languageCode = "en-us"
+title        = "bep.consulting"
+timeZone     = "Europe/Oslo"
+disableKinds = ["RSS", "sitemap", "taxonomy", "term"]
+
+[build]
+    # Used by PurgeCSS
+    writeStats = true
+
+[module]
+    [[module.imports]]
+        path = 'github.com/bep/bep.is'
+        [[module.imports.mounts]]
+            source = 'assets'
+            target = 'assets'
+        [[module.imports.mounts]]
+            source = 'static'
+            target = 'static'
+        [[module.imports.mounts]]
+            source = 'layouts'
+            target = 'layouts'
+        [[module.imports.mounts]]
+            source = 'i18n'
+            target = 'i18n'
